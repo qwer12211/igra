@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\igri\igri\bin\Debug\net6.0\igri.exe
+C:\Users\Admin\source\repos\igri\igri\bin\Debug\net6.0\igri.deps.json
+C:\Users\Admin\source\repos\igri\igri\bin\Debug\net6.0\igri.runtimeconfig.json
+C:\Users\Admin\source\repos\igri\igri\bin\Debug\net6.0\igri.dll
+C:\Users\Admin\source\repos\igri\igri\bin\Debug\net6.0\igri.pdb
+C:\Users\Admin\source\repos\igri\igri\obj\Debug\net6.0\igri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\igri\igri\obj\Debug\net6.0\igri.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\igri\igri\obj\Debug\net6.0\igri.AssemblyInfo.cs
+C:\Users\Admin\source\repos\igri\igri\obj\Debug\net6.0\igri.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\igri\igri\obj\Debug\net6.0\igri.dll
+C:\Users\Admin\source\repos\igri\igri\obj\Debug\net6.0\refint\igri.dll
+C:\Users\Admin\source\repos\igri\igri\obj\Debug\net6.0\igri.pdb
+C:\Users\Admin\source\repos\igri\igri\obj\Debug\net6.0\igri.genruntimeconfig.cache
+C:\Users\Admin\source\repos\igri\igri\obj\Debug\net6.0\ref\igri.dll
